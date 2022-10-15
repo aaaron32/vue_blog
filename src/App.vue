@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class="bg-slate-600 min-h-screen min-w-full">
     <div class="wrapper">
       <nav>
         <RouterLink to="/">Home</RouterLink>
