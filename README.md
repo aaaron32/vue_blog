@@ -1,29 +1,9 @@
 # aaaron.github.io
 
-This template should help get you started developing with Vue 3 in Vite.
+This my first blog on github.
 
-## Recommended IDE Setup
+## 블로그에 추가 해야 할 것들.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+1. tailwindcss 적용 및 기본 ui설정
+2. markdown static list page
+3. markdown static detail page
